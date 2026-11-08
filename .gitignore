@@ -1,0 +1,4 @@
+.vercel/
+node_modules/
+resume-preview.png
+resume.html
