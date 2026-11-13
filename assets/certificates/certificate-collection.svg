@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190" role="img" aria-labelledby="title desc">
+  <title id="title">Certificate collection</title>
+  <desc id="desc">A small illustrated stack of certificates, including Google Cloud, cybersecurity, and AI topics.</desc>
+  <rect width="300" height="190" rx="8" fill="#1b271f"/>
+  <path d="M22 36 174 18l12 103-151 18z" fill="#26352a" stroke="#617450"/>
+  <path d="m39 51 125-15m-121 28 91-11m-88 24 103-13" fill="none" stroke="#71806e" stroke-width="3" opacity=".65"/>
+  <path d="m178 47 92 9-10 104-93-9z" fill="#e8e8d9"/>
+  <path d="m194 66 61 6m-63 8 51 5m-53 8 59 6" fill="none" stroke="#9ba392" stroke-width="3"/>
+  <circle cx="220" cy="126" r="17" fill="#c6f277"/>
+  <path d="m211 126 6 6 12-14" fill="none" stroke="#192214" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="28" y="113" width="175" height="55" rx="4" fill="#202e24" stroke="#445342"/>
+  <text x="42" y="132" fill="#c6f277" font-family="monospace" font-size="9" letter-spacing="1.2">CERTIFICATE</text>
+  <text x="42" y="149" fill="#f4f2e9" font-family="Arial, sans-serif" font-size="13" font-weight="700">GOOGLE CLOUD</text>
+  <text x="42" y="161" fill="#a9b2a8" font-family="Arial, sans-serif" font-size="8">LEARNING MILESTONE · 2026</text>
+</svg>
